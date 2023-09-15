@@ -51,6 +51,7 @@ body {
 
 .btn-block {
   display: block;
+  background-color: coral;
   width: 100%;
 }
 
